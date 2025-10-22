@@ -10,7 +10,7 @@
 
 **Big Earth Data (Taylor & Francis) - Accepted for Publication**
 
-[Jiayi Li](mailto:jiayilee@stu.ouc.edu.cn)<sup>1†</sup>, [Zike Ma](mailto:mazike@stu.ouc.edu.cn)</sup>, [Chengquan Chi](mailto:chichengquan@hainnu.edu.cn)<sup>2</sup>, [Haiyong Zheng](mailto:zhenghaiyong@ouc.edu.cn)<sup>1</sup>, [Zining Yu](mailto:yuzining@ouc.edu.cn)<sup>1*</sup>
+[Jiayi Li](mailto:jiayilee@stu.ouc.edu.cn)<sup>1 </sup>, [Zike Ma](mailto:mazike@stu.ouc.edu.cn)</sup>, [Chengquan Chi](mailto:chichengquan@hainnu.edu.cn)<sup>2</sup>, [Haiyong Zheng](mailto:zhenghaiyong@ouc.edu.cn)<sup>1</sup>, [Zining Yu](mailto:yuzining@ouc.edu.cn)<sup>1*</sup>
 
 <sup>1</sup>College of Electronic Engineering, Ocean University of China  
 <sup>2</sup>School of Information Science and Technology, Hainan Normal University
