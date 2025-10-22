@@ -120,6 +120,7 @@
 
 
 <img src="https://github.com/user-attachments/assets/7480e002-7a18-40bf-83e2-ab2266815fab" width="85%" alt="Monitoring Network"/>
+
 **Table 1 & 2**: (Top) Detailed information of borehole strain monitoring stations including coordinates, rock types, and sampling frequencies. (Bottom) Quality assessment showing data continuity, self-consistency coefficients, and earthquake activity within 50/200 km radii. **Station 62003** (highlighted) selected as reference station due to 99.5% continuity, highest self-consistency (k=0.98), and zero Ms≥3.0 earthquakes within 50 km.
 
 </div>
