@@ -108,7 +108,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/7480e002-7a18-40bf-83e2-ab2266815fab" width="85%" alt="Monitoring Network"/>
+<img src="https://github.com/user-attachments/assets/2f1c5453-2fc1-462b-8590-03adeadb0a0e" width="90%" alt="Station Tables"/>
 
 **Figure 1**: Overview of the studied region and monitoring network. Map shows Sichuan-Yunnan monitoring network with earthquake epicenters (red dots for Ms ≥ 3.0 events), target earthquakes (yellow stars), station locations (triangles), and theoretical influence radii (white dashed circles): 839.5 km for Ms 6.8 Luding earthquake and 380 km for Ms 6.0 Changning earthquake. Reference station 62003 location shown in inset (Gansu Province, >1000 km from both epicenters).
 
@@ -118,8 +118,8 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/2f1c5453-2fc1-462b-8590-03adeadb0a0e" width="90%" alt="Station Tables"/>
 
+<img src="https://github.com/user-attachments/assets/7480e002-7a18-40bf-83e2-ab2266815fab" width="85%" alt="Monitoring Network"/>
 **Table 1 & 2**: (Top) Detailed information of borehole strain monitoring stations including coordinates, rock types, and sampling frequencies. (Bottom) Quality assessment showing data continuity, self-consistency coefficients, and earthquake activity within 50/200 km radii. **Station 62003** (highlighted) selected as reference station due to 99.5% continuity, highest self-consistency (k=0.98), and zero Ms≥3.0 earthquakes within 50 km.
 
 </div>
@@ -493,12 +493,7 @@ S(t; a, b, c, d) = \frac{a}{1 + e^{-b(t-c)}} + d
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/0ca8709b-5a84-4bb2-8e62-3a25bdc14ecb" width="55%" alt="Table 6a"/>
-
-<img src="https://github.com/user-attachments/assets/c2f2952a-0e2a-487b-9b5b-4dbf0957f852" width="60%" alt="Table 6b"/>
-
-<img src="https://github.com/user-attachments/assets/a93525a1-bf67-475c-8a52-dce2998cdc7b" width="65%" alt="Table 6c"/>
-
+<img width="477" height="127" alt="Image" src="https://github.com/user-attachments/assets/c499f261-56b0-4d09-8dc7-02cd256d7642" />
 **Table 6**: Fixed vs. trainable weight strategies comparison (** p < 0.01, 30 runs with different random seeds). Fixed distance-based weights achieve significantly better spatial correlation (0.67±0.05 vs. 0.52±0.08) and sigmoidal pattern recognition (Ratio 1.27±0.09 vs. 1.09±0.12).
 
 </div>
